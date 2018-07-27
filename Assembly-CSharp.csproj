@@ -54,6 +54,7 @@
      <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\CarController.cs" />
      <Compile Include="Assets\checkpoints.cs" />
+     <Compile Include="Assets\controlSwitch.cs" />
      <Compile Include="Assets\display.cs" />
      <Compile Include="Assets\disRecord.cs" />
      <Compile Include="Assets\distance.cs" />
